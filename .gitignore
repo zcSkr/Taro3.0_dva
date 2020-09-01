@@ -1,0 +1,14 @@
+dist/
+deploy_versions/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+dist_weapp
+dist_tt
+dist_h5
+dist_swan
+dist_alipay
+dist_rn
+dist_qq
+dist_quickapp

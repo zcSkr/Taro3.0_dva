@@ -1,0 +1,3 @@
+1.开发前注意核对taro全局包版本和本地依赖包版本是否一致，具体参考文档https://nervjs.github.io/taro/docs/GETTING-STARTED/
+2.taro doctor命令检测项目有无除eslint之外的error再进行开发，主要是为了第1条
+3.开发前请先熟悉一遍文档
